@@ -1,0 +1,8 @@
+The Internet is a complex web of computers, and servers, that connect people and perform complex algroitims and calculations.  For example if you look 
+Theres a super computer that figured out the best design for a Golf Club. An example of how the interenet works is what happens when you click on a link.
+This is a simple process that we do everyday yet what happens in the background can be quite a lot.  
+
+Each link that you click on has been set to a certain Domanin Name, that can have End points (where exactly on the page you want to go), Queries,
+(Searching something on the website), and Parameters(add more information to endpoint).  Your browser takes that and connects it to a Domain Name Service
+(DNS) Which matches the name to the DNS. When you use this an HTTP or HTTPS request gets made to the server bringing back the HTML page, which is the code
+that loads the website.  In short this is how the Internet works, it is a vast network of computers and servers makeing request to each other.
